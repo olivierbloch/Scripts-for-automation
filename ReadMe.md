@@ -5,6 +5,8 @@ It uses the YouTube APIs (specifically the [Captions Insert](https://developers.
 
 ## Prerequisites
 
+1. Download the [repo](https://github.com/olivierbloch/Scripts-for-automation/archive/refs/heads/main.zip) and extract it in a folder of your choice.
+
 1. Install Python from <https://www.python.com/downloads>
 
 1. Obtain Google OAuth Client ID:
