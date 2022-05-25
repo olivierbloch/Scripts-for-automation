@@ -50,26 +50,26 @@ It uses the YouTube APIs (specifically the [Captions Insert](https://developers.
 
    On the first run or after you have deleted the token.json file, you will be prompted to visit a URL and get an authorization code. For this, visit the URL displayed in your terminal:
 
-   ![Visit URL prompt](.\Assets\UploadCaptions_1.png)
+   ![Visit URL prompt](Assets/UploadCaptions_1.png)
 
    Select the brand account to get the credentials for:
 
-   ![Select Brand account](.\Assets\UploadCaptions_2.png)
+   ![Select Brand account](Assets/UploadCaptions_2.png)
 
    Click on **Continue** to discard warning message:
 
-   ![Discard warning message](.\Assets\UploadCaptions_3.png)
+   ![Discard warning message](Assets/UploadCaptions_3.png)
 
     Click on **Allow** to generate and access your code:
 
-   ![Allow the app to access the google account](.\Assets\UploadCaptions_4.png)
+   ![Allow the app to access the google account](Assets/UploadCaptions_4.png)
 
     Copy the Code:
 
-   ![Copy the code](.\Assets\UploadCaptions_5.png)
+   ![Copy the code](Assets/UploadCaptions_5.png)
 
     Paste the code in your terminal and hit **Enter**
 
-   ![Paste the code and continue the script](.\Assets\UploadCaptions_6.png)
+   ![Paste the code and continue the script](Assets/UploadCaptions_6.png)
 
     From here, the script will proceed with the creation of the captions and upload of the files from the local folder
